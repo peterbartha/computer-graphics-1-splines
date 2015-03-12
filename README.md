@@ -10,9 +10,9 @@ Space lenyomására a kontrollpontok egy-egy 5 cm-es kör tetejéről elindulva,
 ### Futtatás
 #### Windows - Visual Studio 201X
 Első körben le kell tölteni a GLUT-ot: [letöltés](http://user.xmission.com/~nate/glut.html)
-- glut.h a C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\gl könyvtárba (a gl könyvtárat Neked kell létrehozni!)
-- glut32.lib a C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\lib könyvtárba
-- glut32.dll a C:\Windows\SysWOW64 könyvtárba
+- **glut.h** a C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\gl könyvtárba (a gl könyvtárat Neked kell létrehozni!)
+- **glut32.lib** a C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\lib könyvtárba
+- **glut32.dll** a C:\Windows\SysWOW64 könyvtárba
 Amennyiben a telepítés helye nem a default, akkor a .h és .lib fájlokat az általad megadott ***\Microsoft Visual Studio 11.0\VC\ könyvtárba kell tenned!
 
 #### Linux + Szövegszerkesztő
