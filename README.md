@@ -1,5 +1,5 @@
 # Számítógépes grafika és képfeldolgozás
-2014/15 őszi félév, BME Számítógépes grafika és képfeldolgozás tárgya
+2014/15 őszi félév, BME Számítógépes grafika és képfeldolgozás
 
 ## 1. beadandó feladat
 ### Feladat leírása
