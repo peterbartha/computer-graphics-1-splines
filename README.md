@@ -26,8 +26,8 @@ Amennyiben a telepítés helye nem a default, akkor a .h és .lib fájlokat az �
   - Wall: összes warning megjelenítése (pl: a nem használt változókról)
   - o graf1: kimenet neve
   - lglut -lGL -lGLU: glut és GL libek linkelése
-  - grafh1.cpp: maga a forrás
-4. Futtatás: dupla klikk a létrejövő binárisra. (Parancssorban: ./graf1)
+  - graph1.cpp: maga a forrás
+4. Futtatás: dupla klikk a létrejövő binárisra. (Parancssorban: ./graph1)
 
 ### Formai követelmények
 A beadó rendszer kifejezetten egy fájl beküldésére lett fejlesztve, így a feltöltött C++ forrás is így került be ebbe a repository-ba. Ezért előre is elnézést kérek, hiszen így eléggé zsúfolt lett helyenként a kód és nehezebb értelmezni. De törekedtem a beszédes változók és logikus statement-ek írására, illetve ahol csak lehetett, próbáltam külön függvényekbe kiszervezni a logikákat, így támogatva a modularitást, illetve a tesztelhetőséget.
